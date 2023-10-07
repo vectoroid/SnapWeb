@@ -1,2 +1,2 @@
-deta
+deta[async]
 fastapi
